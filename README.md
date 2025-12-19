@@ -55,7 +55,6 @@ Based on the data analysis, I recommend the following actions for Zentro:
 - Additionally, strategies driving sales success in the UK should be adapted and applied across other operating countries to ensure more balanced sales performance globally.
 
 ## Links
-[Interactive Power BI Dashboard](https://app.powerbi.com/view?
-r=eyJrIjoiMGZmZDdhYjctNTQ3Yy00YTUzLWE4NGYtOTRkY2Q4YmJhMGZlIiwidCI6IjVjNzI1OWEyLTg1YjAtNDIzZC1hNWM5LTE3ZjFmN2Y2Y2ZjNCJ9)
+[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGZmZDdhYjctNTQ3Yy00YTUzLWE4NGYtOTRkY2Q4YmJhMGZlIiwidCI6IjVjNzI1OWEyLTg1YjAtNDIzZC1hNWM5LTE3ZjFmN2Y2Y2ZjNCJ9)
 
 
