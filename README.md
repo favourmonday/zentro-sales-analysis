@@ -1,7 +1,7 @@
 # Zentro Sales Performance Report (2020–2025)
 Analyzing 5 years of transaction data to optimize retail operations and reduce return rates using Power BI.
 
-![dashboard](dashboard-image.PNG)
+![dashboard](dashboard-image.png)
 
 ## Executive Summary
 - Zentro management lacked visibility into transaction-level data, struggling to track performance across regions and product categories over a 5-year period.
@@ -29,4 +29,5 @@ Using Power Query, the raw data was transformed to ensure accuracy:
 - Corrected Product Category naming conventions and standardized Payment Method (e.g., renamed paypall to PayPal).
 - Created a new SalesAmount calculated column.
 
-![dataset](data-preview
+![dataset](data-preview.png)
+
